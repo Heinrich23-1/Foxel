@@ -1,5 +1,62 @@
 # 🦊 Foxel
 
+**English** · [Español](#-español)
+
+**Foxel is a game launcher for Windows. It gathers your games and emulators in a single library, with a polished interface and a fullscreen mode designed for gamepads.**
+
+Add PC and console games (PS2, PS3 and other platforms through emulators) and launch them with one click. Foxel fills in covers, banners, logos and descriptions automatically, and you can change them whenever you want.
+
+## ⬇️ Download
+
+**[Download the latest version](../../releases/latest/download/Foxel-Setup.exe)**
+
+You can also see all versions in the [Releases](../../releases) section.
+
+## Features
+
+- **Organized library:** categories, favorites, recently played, and filtering by platform (PC, PS2, PS3 and more).
+- **List or grid view,** with adjustable card size.
+- **Automatic metadata:** finds covers, banners, logos, icons and descriptions from Steam and SteamGridDB.
+- **Image editor:** change the logo, banner, cover and icon of each game.
+- **Emulator support:** set up one emulator per platform and launch each game with the right one.
+- **Big Picture mode:** fullscreen interface for couch gaming, navigable with a gamepad (Xbox or PlayStation), with sounds and ambient music.
+- **Play statistics:** time played, streaks, and weekly and monthly summaries.
+- **Discord Rich Presence:** show your friends what you are playing.
+- **Customizable themes:** black with gray accents by default, with a configurable accent color.
+- **Update notifications:** tells you when a new version is available on GitHub.
+- **Custom installer,** with an uninstaller.
+
+## Requirements
+
+| | |
+|---|---|
+| **System** | Windows 10 or 11 (64-bit) |
+| **Disk space** | About 400 MB, plus whatever your images and data take up |
+| **Internet** | Only for fetching covers, updates and Discord. The library works offline |
+| **Gamepad (optional)** | Xbox, PlayStation or any other gamepad supported by Windows |
+
+## Installation
+
+1. Download `Foxel-Setup.exe`.
+2. Open it and follow the steps: choose the folder and shortcuts, and accept the terms.
+3. Open Foxel and add your games.
+
+> **Windows warning:** Foxel is not digitally signed yet. SmartScreen may show "Windows protected your PC". If so, click **More info → Run anyway**.
+
+## Finding covers with SteamGridDB (optional)
+
+To download images from SteamGridDB you need a free API key, which you request on the SteamGridDB website. Paste it in **Settings**; it is stored only on your computer.
+
+## Privacy
+
+Your library and settings are stored only on your PC. Foxel does not collect data or use accounts.
+
+---
+
+# 🦊 Español
+
+[English](#-foxel) · **Español**
+
 **Foxel es un lanzador de juegos para Windows. Reúne tus juegos y emuladores en una sola biblioteca, con una interfaz cuidada y un modo pantalla completa pensado para el mando.**
 
 Agrega juegos de PC y de consola (PS2, PS3 y otras plataformas con emulador) y ábrelos con un clic. Foxel completa solo las carátulas, banners, logos y descripciones, y tú puedes cambiarlos cuando quieras.
@@ -48,5 +105,3 @@ Para descargar imágenes desde SteamGridDB necesitas una clave gratuita (API key
 ## Privacidad
 
 Tu biblioteca y tus ajustes se guardan solo en tu PC. Foxel no recopila datos ni usa cuentas.
-
-
