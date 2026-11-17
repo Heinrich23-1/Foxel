@@ -22,6 +22,7 @@ You can also see all versions in the [Releases](../../releases) section.
 - **Game status.** Mark each game as *In progress*, *Completed*, *Backlog* or *Dropped*, see it on the cover card and filter by it.
 - **Manual ordering.** Choose **Sort by → Manual** and drag and drop games to arrange them your way, in both list and grid.
 - **Group by platform.** Choose **Sort by → Group by → Platform** to split the library into collapsible sections (PC, PS2, PS3…).
+- **In-game overlay.** Press `Ctrl+Shift+O` while playing to open a panel with screenshot, FPS counter, stats and quick actions. `Ctrl+Shift+P` takes a screenshot (saved to the game's gallery and to Pictures\Foxel) and `Ctrl+Shift+F` toggles the FPS counter. Works over windowed and borderless games; the FPS counter uses the free [PresentMon](https://github.com/GameTechDev/PresentMon/releases) tool, which Foxel downloads by itself the first time you enable it.
 
 ## Features
 
@@ -91,6 +92,7 @@ También puedes ver todas las versiones en la sección [Releases](../../releases
 - **Estado de cada juego.** Marca cada juego como *En curso*, *Completado*, *Pendiente* o *Abandonado*, míralo en la tarjeta y filtra por estado.
 - **Orden manual.** Elige **Ordenar por → Manual** y arrastra los juegos para ordenarlos a tu gusto, en lista y en cuadrícula.
 - **Agrupar por plataforma.** Elige **Ordenar por → Agrupar por → Plataforma** para dividir la biblioteca en secciones plegables (PC, PS2, PS3…).
+- **Overlay en juego.** Pulsa `Ctrl+Shift+O` mientras juegas para abrir un panel con captura, contador de FPS, estadísticas y acciones rápidas. `Ctrl+Shift+P` toma una captura (se guarda en la galería del juego y en Imágenes\Foxel) y `Ctrl+Shift+F` activa el contador de FPS. Funciona sobre juegos en ventana o sin bordes; el contador de FPS usa la herramienta gratuita [PresentMon](https://github.com/GameTechDev/PresentMon/releases), que Foxel descarga solo la primera vez que lo activas.
 
 ## Características
 
